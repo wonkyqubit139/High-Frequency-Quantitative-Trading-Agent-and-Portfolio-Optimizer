@@ -1,0 +1,20 @@
+{
+  "starting_value": 10000000.0,
+  "final_value": 10504141.56,
+  "pnl": 504141.56,
+  "pnl_pct": 5.0414,
+  "sharpe_ratio": 3.499036,
+  "turnover_ratio": 0.290105,
+  "total_ticks": 390,
+  "total_orders": 26,
+  "llm_calls_used": 0,
+  "llm_quota": 60,
+  "tc004_compliant": true,
+  "tc005_compliant": true,
+  "tc004_detail": "Cardinality <= 30 maintained throughout",
+  "tc005_detail": "Turnover=29.01% within limit",
+  "generated_at": "2026-04-12T08:53:30.757396+00:00",
+  "initial_value": 10000000.0,
+  "pnl_abs": 504141.56,
+  "num_ticks": 390
+}
